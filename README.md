@@ -1,2 +1,2 @@
 # flappyPissDog
-flappy dog em html, css e js
+  Flappy dog em html, css e js.
